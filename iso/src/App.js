@@ -134,13 +134,19 @@ function App() {
                   {/* <img src="img/about-visual.png" alt="About Us" /> */}
                 </div>
                 <div className="about--options">
-                  <a href="https://youtu.be/4YJ9NcUDUso">
-                    <h3>Charlotte</h3>
-                  </a>
                   <a href="https://youtu.be/ZCN23K1kzXI">
+                    <iframe width="150px" height="75px" src="https://www.youtube.com/embed/ZCN23K1kzXI?autoplay=1&origin=https://youtu.be/ZCN23K1kzXI;autoplay=1&mute=1">
+                    </iframe>
                     <h3>Hero</h3>
                   </a>
+                  <a href="https://youtu.be/4YJ9NcUDUso">
+                    <iframe width="150px" height="75px" src="https://www.youtube.com/embed/4YJ9NcUDUso?autoplay=1&origin=https://youtu.be/4YJ9NcUDUso;autoplay=1&mute=1">
+                    </iframe>
+                    <h3>Charlotte</h3>
+                  </a>
                   <a href="https://youtu.be/d7MZpZhaMuk">
+                    <iframe width="150px" height="75px" src="https://www.youtube.com/embed/d7MZpZhaMuk?autoplay=1&origin=https://youtu.be/d7MZpZhaMuk;autoplay=1&mute=1">
+                    </iframe>
                     <h3>Late Night Thoughts</h3>
                   </a>
                 </div>
