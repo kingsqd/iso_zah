@@ -113,7 +113,7 @@ function App() {
               <div className="about">
                 <div className="about--banner">
                   <h2>YouTube<br />Videos<br /></h2>
-                  <a href="#0">Career
+                  <a href="https://www.youtube.com/channel/UCFSFAew1KSF1io3C4Nw0tLg">Channel
                     <span>
                       <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlnsXlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 150 118" style={{enableBackground: 'new 0 0 150 118'}} xmlSpace="preserve">
                         <g transform="translate(0.000000,118.000000) scale(0.100000,-0.100000)">
@@ -125,13 +125,13 @@ function App() {
                   {/* <img src="img/about-visual.png" alt="About Us" /> */}
                 </div>
                 <div className="about--options">
-                  <a href="#0">
+                  <a href="https://youtu.be/4YJ9NcUDUso">
                     <h3>Charlotte</h3>
                   </a>
-                  <a href="#0">
+                  <a href="https://youtu.be/ZCN23K1kzXI">
                     <h3>Hero</h3>
                   </a>
-                  <a href="#0">
+                  <a href="https://youtu.be/d7MZpZhaMuk">
                     <h3>Late Night Thoughts</h3>
                   </a>
                 </div>
