@@ -112,7 +112,7 @@ function App() {
             <li className="l-section section">
               <div className="about">
                 <div className="about--banner">
-                  <h2>We<br />believe in<br />passionate<br />people</h2>
+                  <h2>YouTube<br />Videos<br /></h2>
                   <a href="#0">Career
                     <span>
                       <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlnsXlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 150 118" style={{enableBackground: 'new 0 0 150 118'}} xmlSpace="preserve">
@@ -122,17 +122,17 @@ function App() {
                       </svg>
                     </span>
                   </a>
-                  <img src="img/about-visual.png" alt="About Us" />
+                  {/* <img src="img/about-visual.png" alt="About Us" /> */}
                 </div>
                 <div className="about--options">
                   <a href="#0">
-                    <h3>Winners</h3>
+                    <h3>Charlotte</h3>
                   </a>
                   <a href="#0">
-                    <h3>Philosophy</h3>
+                    <h3>Hero</h3>
                   </a>
                   <a href="#0">
-                    <h3>History</h3>
+                    <h3>Late Night Thoughts</h3>
                   </a>
                 </div>
               </div>
