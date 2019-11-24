@@ -150,18 +150,18 @@ function App() {
               <div className="hire">
                 <h2>Enter Your Name and Email</h2>
                 {/* checkout formspree.io for easy form setup */}
-                <form className="work-request">
+                <form className="work-request" action="https://formspree.io/xdooqywg" method="POST">
                   <div className="work-request--information">
                     <div className="information-name">
-                      <input id="name" type="text" spellCheck="false" />
+                      <input id="name" type="text" name="name" spellCheck="false" />
                       <label htmlFor="name">Name</label>
                     </div>
                     <div className="information-email">
-                      <input id="email" type="email" spellCheck="false" />
+                      <input id="email" type="email" name="_replyo" spellCheck="false" />
                       <label htmlFor="email">Email</label>
                     </div>
                   </div>
-                  <input type="submit" defaultValue="Send Request" />
+                  <input type="submit" value="Send" />
                 </form>
               </div>
             </li>
