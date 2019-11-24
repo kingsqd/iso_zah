@@ -23,7 +23,6 @@ function App() {
               <li className="is-active"><span>Home</span></li>
               <li><span>Projects</span></li>
               <li><span>About</span></li>
-              <li><span>Contact</span></li>
               <li><span>Hire us</span></li>
             </ul>
           </nav>
