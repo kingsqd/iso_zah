@@ -83,6 +83,15 @@ function App() {
                     <li className="slider--item slider--item-right">
                       <a href="https://music.apple.com/us/album/the-iso-ep-ii/1405378504">
                         <div className="slider--item-image">
+                          <img src="img/isoEP2.jpg" alt="Alex Nowak" />
+                        </div>
+                        <p className="slider--item-title">Iso the EP 2</p>
+                        <p className="slider--item-description"></p>
+                      </a>
+                    </li>
+                    <li className="slider--item slider--item-right">
+                      <a href="https://music.apple.com/us/album/the-iso-ep-ii/1405378504">
+                        <div className="slider--item-image">
                           <img src="img/isoEP.jpg" alt="Alex Nowak" />
                         </div>
                         <p className="slider--item-title">Iso the EP</p>
@@ -164,7 +173,6 @@ function App() {
       <li className="is-active">Home</li>
       <li>Projects</li>
       <li>About</li>
-      <li>Contact</li>
       <li>Book Me</li>
     </ul>
   </div>
