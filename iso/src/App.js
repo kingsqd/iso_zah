@@ -10,7 +10,7 @@ function App() {
         <div className="l-wrapper">
           <header className="header">
             <a className="header--logo" href="#0">
-              <img src="img/logo.png" alt="Global" />
+              <img src="img/miniZah.png" alt="Global" />
               <p>Iso Zah</p>
             </a>
             <button className="header--cta cta">Book Me</button>
@@ -22,7 +22,7 @@ function App() {
             <ul className="side-nav">
               <li className="is-active"><span>Home</span></li>
               <li><span>Projects</span></li>
-              <li><span>About</span></li>
+              <li><span>Videos</span></li>
               <li><span>Book Me</span></li>
             </ul>
           </nav>
@@ -120,6 +120,7 @@ function App() {
             </li>
             <li className="l-section section">
               <div className="about">
+              
                 <div className="about--banner">
                   <h2>YouTube<br />Videos<br /></h2>
                   <a href="https://www.youtube.com/channel/UCFSFAew1KSF1io3C4Nw0tLg">Channel
@@ -131,8 +132,13 @@ function App() {
                       </svg>
                     </span>
                   </a>
+                  
                   {/* <img src="img/about-visual.png" alt="About Us" /> */}
                 </div>
+                {/* <div className="about--premiere">
+                  <iframe width="310px" height="310px" src="https://www.youtube.com/embed/ZCN23K1kzXI?autoplay=1&origin=https://youtu.be/ZCN23K1kzXI;autoplay=1&mute=1">
+                    </iframe>
+                    </ div> */}
                 <div className="about--options">
                   <a href="https://youtu.be/ZCN23K1kzXI">
                     <iframe width="150px" height="75px" src="https://www.youtube.com/embed/ZCN23K1kzXI?autoplay=1&origin=https://youtu.be/ZCN23K1kzXI;autoplay=1&mute=1">
@@ -178,7 +184,7 @@ function App() {
     <ul className="outer-nav">
       <li className="is-active">Home</li>
       <li>Projects</li>
-      <li>About</li>
+      <li>Videos</li>
       <li>Book Me</li>
     </ul>
   </div>
