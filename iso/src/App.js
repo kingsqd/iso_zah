@@ -4,6 +4,14 @@ import './App.css';
 
 function App() {
   return (
+    <div>
+    <div className="device-notification">
+        <a className="device-notification--logo" href="#0">
+          <img src="assets/img/miniZah.png" alt="Global" />
+          <p>Iso Zah</p>
+        </a>
+        <p className="device-notification--message">The Iso Zah website has so much to offer that we must request you orient your device to portrait or find a larger screen. You won't be disappointed.</p>
+      </div>
     <div className="perspective effect-rotate-left">
     <div className="container"><div className="outer-nav--return" />
       <div id="viewport" className="l-viewport">
@@ -188,6 +196,7 @@ function App() {
       <li>Videos</li>
       <li>Book Me</li>
     </ul>
+  </div>
   </div>
   );
 }
