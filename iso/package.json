@@ -13,7 +13,8 @@
     "build": "react-scripts build",
     "deploy": "aws s3 sync build/ s3://isozah.com --acl public-read",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "deploy": "aws2 s3 sync build/ s3://isozah.com --acl public-read"
   },
   "eslintConfig": {
     "extends": "react-app"
