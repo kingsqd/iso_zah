@@ -30,7 +30,7 @@ function App() {
             <li className="l-section section section--is-active">
               <div className="intro">
                 <div className="intro--banner">
-                  <h1>Iso<br />Uzamaki<br /></h1>
+                  <h1>Iso Zah<br /></h1>
                   <button className="cta">Book
                     <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlnsXlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 150 118" style={{enableBackground: 'new 0 0 150 118'}} xmlSpace="preserve">
                       <g transform="translate(0.000000,118.000000) scale(0.100000,-0.100000)">
