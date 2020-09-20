@@ -21,6 +21,8 @@ function App() {
           <nav className="l-side-nav">
             <ul className="side-nav">
               <li className="is-active"><span>Home</span></li>
+              <li><span><a href="https://isozahshop.myshopify.com/collections/all">Merch</a></span></li>
+              <li><span>Merch</span></li>
               <li><span>Projects</span></li>
               <li><span>Videos</span></li>
               <li><span>Book Me</span></li>
@@ -120,7 +122,7 @@ function App() {
             </li>
             <li className="l-section section">
               <div className="about">
-              
+
                 <div className="about--banner">
                   <h2>YouTube<br />Videos<br /></h2>
                   <a href="https://www.youtube.com/channel/UCFSFAew1KSF1io3C4Nw0tLg">Channel
@@ -132,7 +134,7 @@ function App() {
                       </svg>
                     </span>
                   </a>
-                  
+
                   {/* <img src="img/about-visual.png" alt="About Us" /> */}
                 </div>
                 {/* Div for biggest Youtube*/}
@@ -184,6 +186,7 @@ function App() {
     </div>
     <ul className="outer-nav">
       <li className="is-active">Home</li>
+      <li><a href="https://isozahshop.myshopify.com/collections/all">Merch</a></li>
       <li>Projects</li>
       <li>Videos</li>
       <li>Book Me</li>
