@@ -22,7 +22,6 @@ function App() {
             <ul className="side-nav">
               <li className="is-active"><span>Home</span></li>
               <li><span><a href="https://isozahshop.myshopify.com/collections/all">Merch</a></span></li>
-              <li><span>Merch</span></li>
               <li><span>Projects</span></li>
               <li><span>Videos</span></li>
               <li><span>Book Me</span></li>
@@ -57,6 +56,11 @@ function App() {
                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit sed do.</p>
                   </a> */}
                 </div>
+              </div>
+            </li>
+            <li className="l-section section">
+              <div className="work">
+                <h2><a href="https://isozahshop.myshopify.com/collections/all">Merch</a></h2>
               </div>
             </li>
             <li className="l-section section">
