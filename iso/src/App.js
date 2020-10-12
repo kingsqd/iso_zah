@@ -58,7 +58,7 @@ function App() {
                 </div>
               </div>
             </li>
-            <li className="l-section section">
+           <li className="l-section section">
               <div className="work">
                 <h2><a href="https://isozahshop.myshopify.com/collections/all">Merch</a></h2>
               </div>
